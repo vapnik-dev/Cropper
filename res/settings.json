@@ -1,0 +1,14 @@
+{
+  "settings": {
+    "temp_area": 50,
+    "crop_size_ir": 200,
+    "crop_size_vis": 400,
+    "hist_bins": 32,
+    "contrast": 20
+  },
+  "tooltips": {
+    "Equalize": "Applies histogram equalization on the infrared image (recommended)",
+    "Contrast": "Increases the contrast of the infrared image",
+    "None": "The infrared image is unaltered"
+  }
+}
