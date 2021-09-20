@@ -1,4 +1,7 @@
+![icon](./res/icon.png)
+
 ### Cropping Tool for infrared and visual images
+
 This tool is designed to capture specific areas of visual (VIS) and infrared (IR) images to extract 
 information about the electromagnetic emissions of different materials. 
 
